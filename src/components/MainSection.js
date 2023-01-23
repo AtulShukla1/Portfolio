@@ -11,7 +11,7 @@ function MainSection() {
                         
                         <p className="mb-8 leading-relaxed">Hello as a student I would like to learn new technologies and as a beginner, it is very important to make projects and learn every day and grow every day</p>
                         <div className="flex justify-center">
-                           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqrzHxslqRtfPhjlxbxgDGGHPNScQCJNxTnNVzFVFRjVmwNxbzmMdPFKcszvDHgsSPzLB" target="_blank" rel="noreferrer"> <button className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg">Hire Me</button></a>
+                           <a href="mailto: atul61541@gmail.com" target="_blank" rel="noreferrer"> <button className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg">Hire Me</button></a>
                             <a href="https://drive.google.com/file/d/1CvaFrOF-31fZ9-KiyQzxk4m1u1iV63Ma/view?usp=share_link" rel="noopener noreferrer"  target="_blank"> <button  className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Download CV</button></a>
                         </div>
 
