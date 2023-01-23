@@ -29,7 +29,7 @@ function Skills() {
                             <img className="mx-auto " src={C} alt="c img"></img>
                             <h2 className="title-font py-4 font-medium text-3xl text-gray-900">C</h2>
                             <div className="h-2 w-90 bg-gray-600 rounded ">
-                                <div className=' py-1 bg-blue-500 h-1 rounded mr-5 w-50'></div>
+                                <div className=' py-1 bg-blue-500 h-1 rounded mr-5 w-55'></div>
                             </div>
                             <br></br>
                             <p className="leading-relaxed">90%</p>
@@ -40,7 +40,7 @@ function Skills() {
                             <img className="mx-auto " src={Cpp} alt="c++ img"></img>
                             <h2 className="title-font py-4 font-medium text-3xl text-gray-900">C++</h2>
                             <div className="h-2 w-90 bg-gray-600 rounded ">
-                                <div className=' py-1 bg-blue-500 h-1 rounded mr-5 w-60'></div>
+                                <div className=' py-1 bg-blue-500 h-1 rounded mr-2.5 w-70'></div>
                             </div>
                             <br></br>
                             <p className="leading-relaxed">95%</p>
